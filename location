@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Busia-Kenya</title>
+<link href="mercy.css" rel="stylesheet">
+</head>
+<body>
+<h1> Located of orphanage company </h1>
+<p>
+This orphanage is located in Busia-kenya.<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31917.522700036538!2d34.092464936429636!3d0.45892117857117903!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x177fa140f465654f%3A0x68fa5e85fcab9513!2sBusia!5e0!3m2!1sen!2ske!4v1634152841316!5m2!1sen!2ske" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d510686.43047281244!2d33.89233582931139!3d0.36415104563767237!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x177f97eea90358d3%3A0x3d7445d292a2106a!2sBusia%20County!5e0!3m2!1sen!2ske!4v1634151874702!5m2!1sen!2ske" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+</p>
+</body>
+</html>
